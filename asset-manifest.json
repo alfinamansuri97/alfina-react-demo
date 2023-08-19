@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alfina-react-demo/static/css/main.e5fcf17f.css",
-    "main.js": "/alfina-react-demo/static/js/main.6ceb71f3.js",
+    "main.js": "/alfina-react-demo/static/js/main.e6c19cc7.js",
     "static/js/787.635aedaa.chunk.js": "/alfina-react-demo/static/js/787.635aedaa.chunk.js",
     "static/media/about-banner-bg.png": "/alfina-react-demo/static/media/about-banner-bg.87db867b081e0f38b07d.png",
     "static/media/banner-bg-2.png": "/alfina-react-demo/static/media/banner-bg-2.783a2a682ed92740b8da.png",
@@ -63,11 +63,11 @@
     "static/media/banner_icon.svg": "/alfina-react-demo/static/media/banner_icon.e60aaaa0c94aa61ef8cbd0edbb7b489e.svg",
     "index.html": "/alfina-react-demo/index.html",
     "main.e5fcf17f.css.map": "/alfina-react-demo/static/css/main.e5fcf17f.css.map",
-    "main.6ceb71f3.js.map": "/alfina-react-demo/static/js/main.6ceb71f3.js.map",
+    "main.e6c19cc7.js.map": "/alfina-react-demo/static/js/main.e6c19cc7.js.map",
     "787.635aedaa.chunk.js.map": "/alfina-react-demo/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5fcf17f.css",
-    "static/js/main.6ceb71f3.js"
+    "static/js/main.e6c19cc7.js"
   ]
 }
